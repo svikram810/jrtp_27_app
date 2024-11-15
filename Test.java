@@ -1,4 +1,5 @@
 class{
+	String s ="virkamm";
    int a=10;
    int b=20;
    int c=30;
@@ -7,5 +8,4 @@ class{
    int f=80;
    double =60.0;
    String str="singh";
-
 }
