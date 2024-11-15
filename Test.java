@@ -9,4 +9,5 @@ class{
    double =60.0;
    String str="singh";
    boolean status = false;
+   float f = 45.0f;
 }
