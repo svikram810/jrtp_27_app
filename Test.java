@@ -5,4 +5,6 @@ class{
    int d=40;
    int e=50;
    int f=80;
+   double =60.0;
+
 }
