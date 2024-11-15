@@ -8,4 +8,5 @@ class{
    int f=80;
    double =60.0;
    String str="singh";
+   float f = 45.0f;
 }
